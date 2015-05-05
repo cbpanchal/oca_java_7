@@ -1,0 +1,7 @@
+#!/bin/sh
+# compile
+javac com/sc/pkg/SuperClass.java
+javac -cp .:com/sc/pkg/SuperClass.class com/sc/pkg/DefaultClass.java
+javac -cp .:com/sc/pkg/SuperClass.class com/sc/other/SubClass.java
+# execute
+java Main
