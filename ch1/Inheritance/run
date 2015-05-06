@@ -1,7 +1,10 @@
 #!/bin/sh
+# remove existing executables
+rm *.class com/sc/pkg/*.class com/sc/other/*.class
 # compile
 javac com/sc/pkg/SuperClass.java
 javac -cp .:com/sc/pkg/SuperClass.class com/sc/pkg/DefaultClass.java
 javac -cp .:com/sc/pkg/SuperClass.class com/sc/other/SubClass.java
+javac Main.java
 # execute
 java Main
