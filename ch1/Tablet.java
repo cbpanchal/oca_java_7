@@ -7,7 +7,7 @@ interface Gadget {
 }
 
 abstract class Electronic {
-	void getPower() { System.out.println("plug in ");} // default access level of methods in classes is package
+	void getPower() { System.out.println("plug in ");} // default access level of methods in classes is package or default
 }
 
 public class Tablet extends Electronic implements Gadget {

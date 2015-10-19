@@ -1,5 +1,6 @@
 /**
-* This program works if you add "static" to line 15
+* This program works if you add "static" to line 15 
+* or if countGold were called from a non-static method
 * $ javac Frodo.java && java Frodo
 **/
 public class Frodo extends Hobbit 

@@ -6,6 +6,8 @@ public class SubClass extends SuperClass
 {
 	public SuperClass superClass = new SuperClass();
 
+	
+
 	@Override
 	public void print()
 	{
