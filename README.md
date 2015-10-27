@@ -11,7 +11,7 @@ Example code from OCA/OCP Java SE 7 Programmer I &amp; II Study Guide (Exams 1Z0
   6. Electronic.java
   7. Announce.java
   8. TestDays.java
-  9. Frodo.java
+  9. [Frodo.java](/blob/master/ch1/Frodo.java)
   10. Tablet.java
   11. StatTest.java
 2. Object Orientation
@@ -84,3 +84,8 @@ Example code from OCA/OCP Java SE 7 Programmer I &amp; II Study Guide (Exams 1Z0
   14. NA
   15. Frisbee.java
   16. Retread.java
+
+<!--
+https://github.com/spencerdcarlson/oca_java_7/blob/master/ch1/Frodo.java
+https://github.com/spencerdcarlson/oca_java_7
+-->
