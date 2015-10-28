@@ -53,7 +53,7 @@ Example code from OCA/OCP Java SE 7 Programmer I &amp; II Study Guide (Exams 1Z0
   7. [McGee.java](/ch4/McGee.java)
   8. [SpecialOps.java](/ch4/SpecialOps.java)
   9. [Spock.java](/ch4/Spock.java)
-  10. [Speedboat.java](/ch4/Speedboat.java)
+  10. [Tree.java](/ch4/Tree.java)
 5. Working with Strings, Arrays, and ArrayLists
   1. [Mutant.java](/ch5/Mutant.java)
   2. [Hilltop.java](/ch5/Hilltop.java)
