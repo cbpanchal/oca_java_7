@@ -10,7 +10,7 @@ Example code from OCA/OCP Java SE 7 Programmer I &amp; II Study Guide (Exams 1Z0
   5. [Baz.java, Foo.java](/ch1/Baz.java)
   6. [Electronic.java](/ch1/Electronic.java)
   7. [Announce.java](/ch1/Announce.java)
-  8. [TestDay](/ch1/TestDay.java)
+  8. [TestDays](/ch1/TestDays.java)
   9. [Frodo.java](/ch1/Frodo.java)
   10. [Tablet.java](/ch1/Tablet.java)
   11. [StatTest.java](/ch1/StatTest.java)
