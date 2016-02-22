@@ -4,3 +4,10 @@ public class Foo {
 	protected int b = 6;
 	public int c = 7;
 }
+
+/**
+* 1.5
+* Chapter 1
+* Question 5
+* See: Baz.java
+**/

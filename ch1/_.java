@@ -1,7 +1,5 @@
-/**
-* $ javac _.java && java _ - A .
-* out put will be A. because ++x instaed of x++, note x++ would give you an ArrayIndexOutOfBoundsException
-**/
+// $ javac _.java && java _ - A .
+
 import static java.lang.System.*;
 
 class _ 
@@ -14,3 +12,23 @@ class _
 		out.println($);
 	}
 }
+
+/**
+* 1.3
+* Chapter 1
+* Question 3
+* What is the result?
+* A. -A
+* B. A.
+* C. -A.
+* D. _A.
+**/
+
+
+
+/**
+* Answer: B
+* This question is using valid (but inappropriate
+* and weird) identifiers, static imports, main(), 
+* and pre-incrementing logic.
+**/

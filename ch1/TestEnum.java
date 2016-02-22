@@ -9,7 +9,7 @@ class TestEnum {
 		System.out.println(a.DOG.sound + " " + a.FISH.sound);
 	}
 }
-
+// $ javac TestEnum.java && java TestEnum
 
 /**
 * 1.4

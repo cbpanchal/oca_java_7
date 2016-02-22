@@ -8,6 +8,8 @@ class Phone3 extends Electronic implements Device { public void doStuff() { } }
 
 interface Device { public void doIt(); }
 
+// $ javac Electronic.java
+
 /**
 * 1.6
 * Chapter 1
