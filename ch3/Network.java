@@ -3,7 +3,7 @@
 public class Network {
 	Network(int x, Network n) {
 		id = x;
-		p = this;
+		p = this;// p is declared as a null value..
 		if(n != null) p = n;
 	}
 	int id;
